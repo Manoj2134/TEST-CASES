@@ -1,0 +1,12 @@
+
+Project Title: Manual Testing of Login Page
+
+Description:
+Tested the login functionality of a demo web application using manual testing methods. Designed test scenarios, created test cases in Excel, performed test execution, and reported bugs in a Word document. Documented the results in a test summary report.
+
+Key Skills:
+✅ Test Case Design
+✅ Test Execution
+✅ Bug Reporting
+✅ Functional Testing
+✅ Tools: Excel, MS Word, Browser
